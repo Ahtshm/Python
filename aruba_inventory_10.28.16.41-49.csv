@@ -1,0 +1,10 @@
+IP Address,Hostname,Model / Part Number,Serial Number,Base MAC Address,Status
+10.28.16.41,H1-GF-IDF01-STK01SW01-04      ,R8Q70A 6200M 48G CL4 PoE 4SFP+ Sw    ,VN41LBB26X                    ,ec6794-bac300                 ,Reachable
+10.28.16.42,H1-GF-IDF01-STK02SW01-03      ,R8Q70A 6200M 48G CL4 PoE 4SFP+ Sw    ,VN41LBB27Q                    ,ec6794-bac1c0                 ,Reachable
+10.28.16.43,H1-GF-IDF02-STK01SW01-04      ,R8Q70A 6200M 48G CL4 PoE 4SFP+ Sw    ,VN41LBB1YC                    ,ec6794-ba2180                 ,Reachable
+10.28.16.44,H1-GF-IDF02-STK02SW01-03      ,R8Q70A 6200M 48G CL4 PoE 4SFP+ Sw    ,VN41LBB26V                    ,ec6794-bab340                 ,Reachable
+10.28.16.45,N/A,N/A,N/A,N/A,Not Reachable
+10.28.16.46,H1-2F-IDF01-STK01SW01-02      ,R8Q71A 6200M 36G 12SR5 CL6 PoE 4SFP+ Sw,VN39LBCHGB                    ,ec6794-cf0140                 ,Reachable
+10.28.16.47,H1-2F-IDF02-STK01SW01-02      ,R8Q70A 6200M 48G CL4 PoE 4SFP+ Sw    ,VN41LBB1YJ                    ,ec6794-ba31c0                 ,Reachable
+10.28.16.48,H1-2F-IDF03-STK01SW01-02      ,R8Q70A 6200M 48G CL4 PoE 4SFP+ Sw    ,VN41LBB1YF                    ,ec6794-ba2100                 ,Reachable
+10.28.16.49,H1-3F-IDF01-STK01SW01-02      ,R8Q70A 6200M 48G CL4 PoE 4SFP+ Sw    ,VN41LBB1YD                    ,ec6794-ba2140                 ,Reachable
